@@ -12,12 +12,18 @@ Notifications and Alerts
 
 Technologies Used:
 
-MongoDB: Database
-Express.js: Backend Framework
-React.js: Frontend Library
-Mongoose: ODM for MongoDB
-Redux: State Management
-JWT: Authentication
+MongoDB: Database;
+
+Express.js: Backend Framework;
+
+React.js: Frontend Library;
+
+Mongoose: ODM for MongoDB;
+
+Redux: State Management;
+
+JWT: Authentication;
+
 Bootstrap: Styling
 
 User:
